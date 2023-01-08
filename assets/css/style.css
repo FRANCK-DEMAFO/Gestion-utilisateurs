@@ -1,0 +1,71 @@
+
+    a{
+        text-decoration: none;
+        color: rgb(81, 81, 95);
+    }
+    a:hover{
+        text-decoration: underline rgb(240, 12, 12);
+        color: rgb(255, 0, 0);
+    }
+.section{
+  position: relative;
+  margin-top: 60px;
+}
+ 
+.container{
+ margin-top:100px;
+ 
+}
+.boos{
+    background-color: rgb(202, 30, 30);
+}
+
+div ul li{
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+}
+
+.navitems .navlink:hover{
+    background-color: rgb(187, 16, 16);
+    color:whitesmoke ;
+    text-decoration: none;
+    color:rgb(255, 255, 255) ;
+    font-size: 1em;
+    padding: 0.5em;
+    flex: 1;
+    transition: all 0,4s ease;
+}
+ .navlist li a i {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left:-5px;
+    top: 0px;
+}
+.dropdown-menu li{
+    text-align: center;
+}
+.dropdown-menu li a i {
+    margin-right: 30px;
+    flex: 1;
+    transition: all 0,4s ease;
+    
+}
+.help-inline{
+    color: red;
+}
+
+
+.admin{
+    background:whitesmoke;
+    padding: 50px;
+    border-radius: 10px;
+    
+}
+.site{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.help-inline{
+    color: red;
+}
